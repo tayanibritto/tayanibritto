@@ -1,8 +1,25 @@
 # ✨ Tayani Britto ✨
 
-## 💻 Analista e Desenvolvedora de Sistemas | Front-End | React.js | TypeScript | Next.js | Back-End Python | FastAPI
+##  💻 Desenvolvedora Full Stack Python | React, Next.js, TypeScript e FastAPI
 
-### Aqui estão algumas tecnologias que você vai encontrar por aqui:
+### 👋 Sobre mim
+
+Sou Analista e Desenvolvedora de Sistemas graduada e atualmente em formação Full Stack Python pela EBAC.
+
+Após mais de 10 anos de experiência na área administrativa e educacional do setor público, retomei minha trajetória em desenvolvimento de software com foco na criação de soluções para automação de processos, tratamento de dados e aplicações web.
+
+Atualmente desenvolvo projetos utilizando Python, React, Next.js, FastAPI e ferramentas voltadas à análise e validação de dados.
+
+### 💡 O que eu gosto de construir:
+
+- Automação de processos com Python
+- Tratamento e validação de dados
+- Aplicações Web Full Stack
+- Integração de APIs
+- Ferramentas para melhoria de processos
+- Soluções com foco em produtividade e confiabilidade dos dados
+
+### 👩‍💻 Aqui estão algumas tecnologias que você vai encontrar por aqui:
 
 #### Front-End: 
 
@@ -16,7 +33,12 @@
  
  #### Ferramentas:
  
- <img width="75" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a657374266c6f676f436f6c6f723d7768697465" src="https://github.com/user-attachments/assets/76612aa7-d1eb-4963-963a-b8dd96c3eb4c" /> <img width="166" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74657374696e672532306c6962726172792d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d74657374696e672d6c696272617279266c6f676f436f6c6f723d726564" src="https://github.com/user-attachments/assets/414d8bfe-37fd-4607-b03a-bf7fd2bcd52e" /> <img width="93" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333236333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465" src="https://github.com/user-attachments/assets/93b4ef7f-9346-4157-9ced-4c89788d1c8f" /> <img width="109" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726574746965722d3141324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7072657474696572266c6f676f436f6c6f723d463742413345" src="https://github.com/user-attachments/assets/6871088d-043f-481e-8b10-5dac7e5d8b57" />
+ <img width="75" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6573742d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d4a657374266c6f676f436f6c6f723d7768697465" src="https://github.com/user-attachments/assets/76612aa7-d1eb-4963-963a-b8dd96c3eb4c" /> <img width="166" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f74657374696e672532306c6962726172792d3332333333303f7374796c653d666f722d7468652d6261646765266c6f676f3d74657374696e672d6c696272617279266c6f676f436f6c6f723d726564" src="https://github.com/user-attachments/assets/414d8bfe-37fd-4607-b03a-bf7fd2bcd52e" /> <img width="93" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f45534c696e742d3442333236333f7374796c653d666f722d7468652d6261646765266c6f676f3d65736c696e74266c6f676f436f6c6f723d7768697465" src="https://github.com/user-attachments/assets/93b4ef7f-9346-4157-9ced-4c89788d1c8f" /> <img width="109" height="28" alt="68747470733a2f2f696d672e736869656c64732e696f2f62616467652f70726574746965722d3141324333343f7374796c653d666f722d7468652d6261646765266c6f676f3d7072657474696572266c6f676f436f6c6f723d463742413345" src="https://github.com/user-attachments/assets/6871088d-043f-481e-8b10-5dac7e5d8b57" /> 
+
+ ### 📚 Atualmente estudando:
+
+ - Desenvolvimento Full Stack Python (EBAC)
+ - Cibersegurança (Programa Hackers do Bem)
 
  ### 💼 Veja meu Portfólio e LinkedIn!
 
